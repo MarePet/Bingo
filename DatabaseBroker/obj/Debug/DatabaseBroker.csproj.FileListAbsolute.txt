@@ -1,0 +1,9 @@
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\DatabaseBroker\bin\Debug\DatabaseBroker.dll
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\DatabaseBroker\bin\Debug\DatabaseBroker.pdb
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\DatabaseBroker\bin\Debug\Domain.dll
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\DatabaseBroker\bin\Debug\Domain.pdb
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CopyComplete
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\DatabaseBroker\obj\Debug\DatabaseBroker.dll
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\DatabaseBroker\obj\Debug\DatabaseBroker.pdb

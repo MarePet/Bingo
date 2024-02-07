@@ -1,0 +1,9 @@
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\AppLogic\bin\Debug\AppLogic.dll
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\AppLogic\bin\Debug\AppLogic.pdb
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\AppLogic\bin\Debug\Domain.dll
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\AppLogic\bin\Debug\Domain.pdb
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\AppLogic\obj\Debug\AppLogic.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\AppLogic\obj\Debug\AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\AppLogic\obj\Debug\AppLogic.csproj.CopyComplete
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\AppLogic\obj\Debug\AppLogic.dll
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\AppLogic\obj\Debug\AppLogic.pdb

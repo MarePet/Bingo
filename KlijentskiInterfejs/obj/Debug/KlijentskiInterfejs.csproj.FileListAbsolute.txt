@@ -1,0 +1,14 @@
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\KlijentskiInterfejs\bin\Debug\KlijentskiInterfejs.exe.config
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\KlijentskiInterfejs\bin\Debug\KlijentskiInterfejs.exe
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\KlijentskiInterfejs\bin\Debug\KlijentskiInterfejs.pdb
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\KlijentskiInterfejs\bin\Debug\Domain.dll
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\KlijentskiInterfejs\bin\Debug\Domain.pdb
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\KlijentskiInterfejs\obj\Debug\KlijentskiInterfejs.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\KlijentskiInterfejs\obj\Debug\KlijentskiInterfejs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\KlijentskiInterfejs\obj\Debug\KlijentskiInterfejs.FrmKlijent.resources
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\KlijentskiInterfejs\obj\Debug\KlijentskiInterfejs.Properties.Resources.resources
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\KlijentskiInterfejs\obj\Debug\KlijentskiInterfejs.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\KlijentskiInterfejs\obj\Debug\KlijentskiInterfejs.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\KlijentskiInterfejs\obj\Debug\KlijentskiInterfejs.csproj.CopyComplete
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\KlijentskiInterfejs\obj\Debug\KlijentskiInterfejs.exe
+C:\Users\Marko\source\repos\ROK - Februrar Bingo 2023\KlijentskiInterfejs\obj\Debug\KlijentskiInterfejs.pdb
